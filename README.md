@@ -1,11 +1,11 @@
-# Lab 9H Final Proposal
-
 ## TAG! Game
 **Amy Xu & Yingchen Chen**
 
 <img src="GamePic.png" alt="Game Screenshot" width="400"/>
 
 ---
+
+Honorable Mention in ECE 319 Honors Course.
 
 Two players face off in a fast-paced, action-filled chase. A slide potentiometer is used in the pre-game menu, allowing players to adjust settings such as language (English or Spanish), map selection, and game duration. 
 
