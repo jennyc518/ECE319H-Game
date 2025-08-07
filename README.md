@@ -14,6 +14,8 @@ One player starts as the **tagger**, indicated by an arrow sprite above their ch
 
 The game ends when the timer runs out, and the player who is not "it" is declared the winner on the ending screen.
 
+[DEMO Video](https://youtu.be/KOTbW8EkWLw?feature=shared)
+
 ---
 
 ## Features
