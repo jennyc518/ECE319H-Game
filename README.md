@@ -1,5 +1,5 @@
 ## TAG! Game
-**Amy Xu & Yingchen Chen**
+**Yingchen(Jenny) Chen & Amy Xu**
 
 <img src="GamePic.png" alt="Game Screenshot" width="400"/>
 
